@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">lesson_12_alertdialog</string>
+    <string name="first_name">Имя</string>
+    <string name="second_name">Фамилия</string>
+    <string name="date_of_birth">Дата Рождения</string>
+    <string name="save">Сохранить</string>
+    <string name="welcome">Добро пожаловать!</string>
+    <string name="dialog_save">Сохранить данные?</string>
+    <string name="data_is_saved">Данные сохранены!</string>
+    <string name="ok">Ok!</string>
+</resources>
